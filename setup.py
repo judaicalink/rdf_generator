@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='rdf-generator',
-    version='0.1.3',
+    version='0.1.4',
     entry_points={
         'console_scripts': [
             'rdfgen=rdf_generator.cli:main',
@@ -17,7 +17,7 @@ setup(
     long_description=long_description,  # Load the README as the long description
     long_description_content_type="text/markdown",  # Specify Markdown format
     url="https://github.com/judaicalink/rdf_generator",
-    packages=["rdf-generator"],
+    packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
