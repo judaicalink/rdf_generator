@@ -5,9 +5,9 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-![PyPI - Downloads](https://img.shields.io/pypi/dm/rdf_generator)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/rdf-generator)
 
-![PyPI - Version](https://img.shields.io/pypi/v/rdf_generator)
+![PyPI - Version](https://img.shields.io/pypi/v/rdf-generator)
 
 The `rdf_generator` library provides tools for generating RDF datasets from various data sources, including scraped websites, Excel sheets, CSV files, text files, PDFs, and relational databases (PostgreSQL, MySQL, etc.). It aims to simplify the process of building RDF datasets, enabling seamless integration into linked data workflows.
 
