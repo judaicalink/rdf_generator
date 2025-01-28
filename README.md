@@ -61,7 +61,7 @@ Install dependencies with:
 
 ## Usage
 
-The `rdf_generator library is designed to provide parsers for multiple data sources and utilities to generate RDF datasets. Below are examples for various data sources.
+The `rdf_generator` library is designed to provide parsers for multiple data sources and utilities to generate RDF datasets. Below are examples for various data sources.
 
 1. Generate RDF from CSV Files
 ```python
